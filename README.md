@@ -1,9 +1,5 @@
 # CrowdFunding VBA File
 
-Excel Challenge 
-
-## Instructions
-
 Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 
 1) Went to "conditional formatting" on the top of excel and clicked on "New Rule" and switched it to "Classic" then clicked on "Format Only Cells That Contain" a specific text containing the words Failed, Successful, Live, and Canceled. I assigned a different color for each word per the instructions. I applied this rule to all necessary cells within the column. 
