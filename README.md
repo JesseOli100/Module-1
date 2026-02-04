@@ -64,5 +64,3 @@ https://wallstreetmojo.com/round-excel-function/#:~:text=This%20formula%20takes%
 https://support.microsoft.com/en-us/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621#:~:text=conditional%20formatting%20to.-,On%20the%20Home%20tab%2C%20click%20Conditional%20Formatting.,want%2C%20and%20then%20click%20OK.
 https://www.ablebits.com/office-addins-blog/textsplit-function-excel-split-cells-strings/#:~:text=The%20TEXTSPLIT%20function%20in%20Excel,two%20of%20which%20are%20required.&text=Text%20(required)%20%2D%20the%20text%20to%20split.
 
-—
-Created by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
